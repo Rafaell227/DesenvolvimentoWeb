@@ -1,0 +1,56 @@
+body {
+    background: url(../images/bolhas.jpg);
+    background-size: 560px;
+    background-position: center;
+    position:relative;
+    color: #fff;
+    font-size: 23px
+    
+}
+
+input {
+    
+    background: #000;
+    padding: 5px;
+    border: 3px solid #f5580a;
+    color: #fff; 
+}
+
+select {
+    
+    background: #000;
+    padding: 5px;
+    border: 3px solid #f5580a;
+    color: #fff;
+    
+}
+
+Textarea {
+    background: #000;
+    border: 3px solid #f5580a;
+    border-radius: 8px;
+    color: #fff
+    
+}
+
+input[type=submit],input[type=reset],button {
+    
+    background: #000;
+    border: 3px solid #f5580a;
+    color: #fff;
+    border-radius: 8px;
+    height:40px;
+    
+    
+}
+
+h1 {
+    
+    color: aliceblue;
+}
+
+
+label {
+    color: aliceblue;
+    
+}

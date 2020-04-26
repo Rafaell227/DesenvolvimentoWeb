@@ -1,0 +1,145 @@
+
+
+body {
+    background: url(../images/sinistro.jpg);
+    color: #E6E6E6;
+}zz
+img.thumb, #imgGrande img {
+    
+    background-color:#fff;
+    border: 1px solid #333;
+    box-shadow: 0px 0px 5px #333;
+    width: 100%
+}
+#imgGrande img {
+ height:350px;
+}
+// div#imgGrande {
+    width: 900px;
+    position: relative;
+    right: 200px;
+    bottom: 20px;
+   
+    
+}
+
+
+h1{
+    color: #000;
+    text-align: center;
+}
+
+
+
+
+.trocaFundo {
+    
+}
+
+.img-fluid{
+     align-items: center;
+    
+    
+}
+
+#imgGrande {
+    position:relative;    
+}
+.flecha {
+    position: absolute;
+    top:45%;
+    color:#fff;
+    background:rgba(0,0,0,0.6);
+    padding:10px 18px;
+    border-radius: 50%;
+}
+#flechaDir {
+    right: 30px;
+    top: 150px;
+}
+#flechaEsq {
+    left: 30px;
+    top: 150px;
+}
+#lupa {
+    position: relative;
+    bottom:150px;
+    left: 200px;
+    color:coral;
+   
+}
+#pausa {
+    position: absolute;
+    top:60px;
+    right: 30000000px;
+    color:aliceblue
+   
+    
+}
+#play {
+    position: absolute;
+    top:25px;
+    right: 30000000px;
+    color:blueviolet
+    
+}
+a:hover {
+    color: #ccc;
+}
+#legenda {
+    
+    bottom: 15px;
+    left: 400px;
+    right: 10px;
+    padding: 4px 10px;
+    background-color: rgba(0,0,0,0.6);
+    color: #fff;
+}
+
+.text-center {
+    color: aliceblue;
+}
+
+
+
+
+#g36c {  
+    height: 50px;  
+}
+
+
+
+
+. img {
+    max-width:200px;
+    max-height:150px;
+    width: auto;
+    height: auto;
+    align-items: center;
+}
+
+.container{
+    
+    font-size: 50px;
+    color:aliceblue
+}
+
+
+.titulo {
+    
+    color: aliceblue;
+    font-size: 30px;
+}
+
+.detalhe {
+    color: aliceblue;
+}
+#legenda_foto {
+    position: relative;
+    bottom: 70px;
+    font-size: 30px;
+    
+    background-color: rgba(0,0,0,0.6);
+    color: #fff;
+    
+}
